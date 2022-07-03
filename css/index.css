@@ -414,7 +414,6 @@ margin: 0 auto}
 #box05 form ul>li>textarea{
     width:100%;
     box-sizing: border-box;
-    line-height: 43px;
     background-color: #eaeaea;
     border: none;
 }
